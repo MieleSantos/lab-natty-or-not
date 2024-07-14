@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 
-# Festa na Floresta com os inossauros ;)
+# Festa na Floresta com os Dinossauros ;)
 
 ## 📒 Descrição
 A rumores de uma festa realizada em uma noite na floresta com dinossauros e homens das cavernas
@@ -33,11 +33,17 @@ Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
 
-Usei o leonardo.ia para cria as imagens das cenas e o Microsoft clipcharmp para criar o video com ia aparti da imagens geradas
+Usei o leonardo.ia para cria as imagens dos momentos:
+- dino sentados tomando café em volta da fogueira
+- dinos assando o bifé no esperto e comendo eles
+- dinos dançando em volta da fogueira
+ - **NOTA** em nenhum momento pedi para ia adicionar pessoas, mas nesse de dança, foram adicionado fotos com homens da caverna dançando com bebida na mão
+
+O Microsoft clipcharmp foi usado para criar o video usado recursos de IA aparti da imagens geradas, selecionado algumas configurações
 
 ## 🚀 Resultados
-Um video vitage com momentos da festa dos dinos
-
+Um videoclip com as imagens dos momentos que aconteceram, entre  dinos tomando café, assando e comento um bife no espeto,
+dançando em volta da foqueira com os homens das caverna
 
 [[Assista ao vídeo]](https://youtu.be/IP3GBeMaQfk)
 
