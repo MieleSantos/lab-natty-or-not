@@ -38,8 +38,8 @@ Usei o leonardo.ia para cria as imagens das cenas e o Microsoft clipcharmp para 
 ## 🚀 Resultados
 Um video vitage com momentos da festa dos dinos
 
-[Assista ao vídeo](video/Festa_na_Floresta_com_os_dinossauros.mp4)
 
+[[Assista ao vídeo]](https://youtu.be/IP3GBeMaQfk)
 
 ### Exemplos e Insigths
 
