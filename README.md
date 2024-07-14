@@ -29,7 +29,7 @@ Cria um video que mostra esse momento histórico
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 -  [leonardo.ia](https://app.leonardo.ai)
-- Microsoft clipcharmp p
+- Microsoft clipcharmp
 
 ## 🧐 Processo de Criação
 
